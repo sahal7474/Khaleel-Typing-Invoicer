@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Khaleel-Typing-Invoicer/static/css/main.f8d1cfaf.css",
+    "main.js": "/Khaleel-Typing-Invoicer/static/js/main.95ab6772.js",
+    "static/media/khaleel printing.png": "/Khaleel-Typing-Invoicer/static/media/khaleel printing.c0f2f29bc423014ef329.png",
+    "index.html": "/Khaleel-Typing-Invoicer/index.html",
+    "main.f8d1cfaf.css.map": "/Khaleel-Typing-Invoicer/static/css/main.f8d1cfaf.css.map",
+    "main.95ab6772.js.map": "/Khaleel-Typing-Invoicer/static/js/main.95ab6772.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8d1cfaf.css",
+    "static/js/main.95ab6772.js"
+  ]
+}
